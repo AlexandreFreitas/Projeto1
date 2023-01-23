@@ -17,3 +17,7 @@ e = "pronto finalizei!"
 print (e)
 
 f = "Vamos lá"
+
+g = "PS5"
+
+print (g)
