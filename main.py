@@ -11,3 +11,5 @@ print (c)
 d = "Já não sei mais o que colocar em inglês..."
 
 print (d)
+
+e = "pronto finalizei!"
