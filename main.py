@@ -13,3 +13,7 @@ d = "Já não sei mais o que colocar em inglês..."
 print (d)
 
 e = "pronto finalizei!"
+
+print (e)
+
+f = "Vamos lá"
